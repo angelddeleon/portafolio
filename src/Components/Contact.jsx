@@ -27,7 +27,7 @@ const Contact = () => {
           <i><img src={linkedin} alt="" /></i>
         </a>
 
-      <a onClick={() => openInNewTab("https://github.com/angelddeleon")}>
+      <a onClick={() => openInNewTab("https://twitter.com/angelintechh")}>
         <i><img src={twitter} className="twitter" /></i>
       </a>
 
